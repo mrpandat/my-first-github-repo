@@ -2,5 +2,3 @@ Merci laurie
 Réponse à mes questions : 
 untracked files = fichier pas suivi par mon répo distant ( git add pour l'ajouter)
 Git diff sert à voir la diff entre mes différents commit
-modif 3 
-C'est super
